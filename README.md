@@ -4,9 +4,9 @@ Projeto no qual você pode pesquisar: significados, sinônimos e exemplos de fra
 Funcionalidades:
 Ao pesquisar uma palavra, podera abrir 3 seções:
 
--significado
--exemplos de frases
--sinonimos
+- significado
+- exemplos de frases
+- sinonimos
 
 Ao pesquisar uma nova palavra, todo conteudo previamente mostrado na tela será apagado, e assim gerado o que foi requisitado.
 
